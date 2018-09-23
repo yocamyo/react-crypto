@@ -1,0 +1,20 @@
+body {
+  background-color: lightblue;
+  padding: 50px;
+}
+
+div#crypto-container {
+  background: blanchedalmond;
+  width: 60%;
+  margin: 0 auto 4px auto;
+  padding: 1em;
+  box-shadow: 1px 1px 0 lightgrey;
+}
+
+span.left {
+  font-weight: bold;
+}
+
+span.right {
+  float: right;
+}
